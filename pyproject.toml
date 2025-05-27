@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ssb-pypi-test-srf"
-version = "0.0.0"
+version = "0.0.1"
 description = "SSB Pypi Test Srf"
 authors = ["srf@ssb.no <srf@ssb.no>"]
 license = "MIT"
