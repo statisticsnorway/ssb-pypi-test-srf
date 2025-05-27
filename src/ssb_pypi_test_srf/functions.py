@@ -22,7 +22,7 @@ def example_function(number1: int, number2: int) -> str:
         A string describing which number is the greatest.
 
     Examples:
-        Examples should be written in doctest format, and should illustrate how
+        Examples should be written in doctest format, hei and should illustrate how
         to use the function.
 
         >>> example_function(1, 2)
